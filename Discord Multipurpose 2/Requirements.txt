@@ -1,0 +1,14 @@
+The following Modules are Needed, Please install them.
+
+1: Psutil
+2: re
+3: dateutil
+4: discord.py==1.5.1
+5: Pillow
+6: python-string-utils
+
+> pip install <module name> in the CMD.
+
+Python Version Used: 3.7
+Discord Version Used: 1.5.1
+
