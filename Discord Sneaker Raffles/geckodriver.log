@@ -1,0 +1,26 @@
+1620572353054	geckodriver	INFO	Listening on 127.0.0.1:58142
+1620572356078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sofii\\AppData\\Local\\Temp\\rust_mozprofileSQb6TI"
+1620572357305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572364950	Marionette	INFO	Listening on port 58154
+1620572365439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://docs.google.com/spreadsheets/d/e/2PACX-1vQHcNgqvu0l1S-aBE12KEooSK9CQlw7LrKA2M9ZToRMw4f5DM31TOvexQOIPu32lf0TLhVSpHJMCxdT/pubhtml/sheet?headers=false&gid=0, line 62: ReferenceError: posObjs is not defined
+1620572473697	geckodriver	INFO	Listening on 127.0.0.1:58330
+1620572476740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sofii\\AppData\\Local\\Temp\\rust_mozprofile7mChkk"
+1620572477318	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572481580	Marionette	INFO	Listening on port 58344
+1620572481659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://docs.google.com/spreadsheets/d/e/2PACX-1vQHcNgqvu0l1S-aBE12KEooSK9CQlw7LrKA2M9ZToRMw4f5DM31TOvexQOIPu32lf0TLhVSpHJMCxdT/pubhtml/sheet?headers=false&gid=0, line 62: ReferenceError: posObjs is not defined
+1620572623749	geckodriver	INFO	Listening on 127.0.0.1:58603
+1620572626781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sofii\\AppData\\Local\\Temp\\rust_mozprofilefiZNhR"
+1620572627166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572631513	Marionette	INFO	Listening on port 58616
+1620572631734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620572655661	geckodriver	INFO	Listening on 127.0.0.1:58723
+1620572658693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sofii\\AppData\\Local\\Temp\\rust_mozprofileTYpycb"
+1620572659285	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620572663779	Marionette	INFO	Listening on port 58733
+1620572664122	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -1,0 +1,15 @@
+{
+   "Num": 3,
+   "Upload1": {
+      "File": "C..zip",
+      "Repo": "name-of-your-repos"
+   },
+   "Upload2": {
+      "File": "C..zip",
+      "Repo": "name-of-your-repos"
+   },
+   "Upload3": {
+      "File": "3435345435345345.zip",
+      "Repo": "name-of-your-repos"
+   }
+}
