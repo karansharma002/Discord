@@ -18,25 +18,18 @@ class ban(commands.Cog):
 
         if role1 in ctx.author.roles:
             pass
-
         elif role2 in ctx.author.roles:
             pass
-
         else:
             await ctx.send(":tools: You don't have the sufficient permissions for using this command.")
             return
 
-        if role1 in member.roles or role2 in member.roles:
-            await ctx.send(':warning: You cannot ban a Moderator')
-            return
-            
         if member == None or duration == None:
             embed=discord.Embed(description="Usage: =ban `<@user` `<DURATION IN HOURS>`",color=0xff8083)
             embed.set_author(name="Ban Help")
             embed.set_footer(text="Bans the Member from Using the BOT.")
             await ctx.send(embed = embed)
             return
-
         else:
             with open('Config/Bans.json') as f:
                 bans = json.load(f)
@@ -107,7 +100,7 @@ class ban(commands.Cog):
             t1 = parser.parse(str(datetime.now()))
             t2 = parser.parse(str(bans[x]))
             t3 = t2 - t1
-            seconds = round(t3.total_seconds() / 60)
+            seconds = round(t3.total_seconds() / 3600)
             user = await self.bot.fetch_user(int(x))
             msg += f"**{num + 1}:** {user} - ({seconds} HOURS)\n"
         

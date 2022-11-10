@@ -228,7 +228,6 @@ class Lobby(commands.Cog):
                             await ctx.send('Would you like to change the RESULT? Reply with `yes/no` in the chat')
                             confirmation = await self.bot.wait_for('message',check = check)
                             if confirmation.content.lower() == 'yes':
-                                await ctx.send('----- (CHANGING THE RESULTS) -----')
                                 if winner.upper() == 'EDEN':
                                     team1 = 'EDEN'
                                     team2 = 'NAF'
@@ -271,11 +270,11 @@ class Lobby(commands.Cog):
                                     data= json.load(f)
                             
                                 if team1 == 'NAF':
-                                    username1 = str(gm[game]['Captain1'])
-                                    username2 = str(gm[game]['Captain2'])
+                                    username1 = cache[str(gm[game]['Captain1'])]
+                                    username2 = cache[str(gm[game]['Captain2'])]
                                 else:
-                                    username1 = str(gm[game]['Captain2'])
-                                    username2 = str(gm[game]['Captain1'])
+                                    username1 = cache[str(gm[game]['Captain2'])]
+                                    username2 = cache[str(gm[game]['Captain1'])]  
                                 
                                 if not data[username1]['Points'] - win_pts < 0:
                                     data[username1]['Points'] -= win_pts
@@ -305,7 +304,6 @@ class Lobby(commands.Cog):
                                 await ctx.send('-- Changes has been REVERTED -- ')
                                 return
                         
-                        await ctx.send('----- (Finalizing THE RESULTS) -----')
                         channel = await self.bot.fetch_channel(settings['Score_Channel'])
                         captain1 = await self.bot.fetch_user(gm[game]['Captain1'])
                         captain2 = await self.bot.fetch_user(gm[game]['Captain2'])
@@ -360,14 +358,14 @@ class Lobby(commands.Cog):
                                 data[username2]['Loss'] += 1
                         
                         if team1 == 'NAF':
-                            username1 = str(gm[game]['Captain1'])
-                            username2 = str(gm[game]['Captain2'])
+                            username1 = cache[str(gm[game]['Captain1'])]
+                            username2 = cache[str(gm[game]['Captain2'])]
                             usr = await self.bot.fetch_user(int(gm[game]['Captain1']))
                             usr2 = await self.bot.fetch_user(int(gm[game]['Captain2']))          
             
                         else:
-                            username1 = str(gm[game]['Captain2'])
-                            username2 = str(gm[game]['Captain1'])
+                            username1 = cache[str(gm[game]['Captain2'])]
+                            username2 = cache[str(gm[game]['Captain1'])]  
                             usr = await self.bot.fetch_user(int(gm[game]['Captain2']))
                             usr2 = await self.bot.fetch_user(int(gm[game]['Captain1']))          
 

@@ -1,0 +1,11 @@
+{
+  "trial": {
+    "Duration": "Monthly",
+    "Products": {
+      "balko": {
+        "Emoji": "<:SofloRentalsBalko:826456925750558730>",
+        "Price": 500
+      }
+    }
+  }
+}

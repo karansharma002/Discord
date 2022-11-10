@@ -282,29 +282,29 @@ class Game(commands.Cog):
                     with open('Config/Games.json','r') as f:
                         gm = json.load(f)
                     
+                    eden_players= ''
+                    naf_players = ''
+                    remaining_players = ''
+
+                    for x in gm[game_num]['EDEN']:                         
+                        usr = await self.bot.fetch_user(x)
+                        eden_players += f"{usr.mention}\n"
+                    
+                    for x in gm[game_num]['NAF']:
+                        usr = await self.bot.fetch_user(x)
+                        naf_players += f"{usr.mention}\n"   
+
+                    for x in gm[game_num]['Players']:
+                        usr = await self.bot.fetch_user(x)
+                        remaining_players += f"{usr.mention}\n"
+                    
+                    if eden_players == '':
+                        eden_players = 'NONE'
+                    
+                    if naf_players == '':
+                        naf_players = 'NONE'
+                    
                     if not len(gm[game_num]['Players']) == 1:
-                        eden_players= ''
-                        naf_players = ''
-                        remaining_players = ''
-
-                        for x in gm[game_num]['EDEN']:                         
-                            usr = await self.bot.fetch_user(x)
-                            eden_players += f"{usr.mention}\n"
-                        
-                        for x in gm[game_num]['NAF']:
-                            usr = await self.bot.fetch_user(x)
-                            naf_players += f"{usr.mention}\n"   
-
-                        for x in gm[game_num]['Players']:
-                            usr = await self.bot.fetch_user(x)
-                            remaining_players += f"{usr.mention}\n"
-
-                        if eden_players == '':
-                            eden_players = 'NONE'
-                        
-                        if naf_players == '':
-                            naf_players = 'NONE'
-                            
                         Captain1 = await self.bot.fetch_user(gm[game_num]['Captain1'])
                         Captain2 = await self.bot.fetch_user(gm[game_num]['Captain2'])
                         embed = discord.Embed(color = discord.Color.green(),title = f"Game #{game_num}")
@@ -343,8 +343,8 @@ class Game(commands.Cog):
 
                         ct1 = gm[game_num]['Captain1']
                         ct2 = gm[game_num]['Captain2']
-                        ct1 = str(ct1)
-                        ct2 = str(ct2)
+                        ct1 = cache[str(ct1)]
+                        ct2 = cache[str(ct2)]
 
                         players_region = {}
                         if data[ct1]['Region'] in players_region:
@@ -358,7 +358,7 @@ class Game(commands.Cog):
                             players_region[data[ct2]['Region']] = 1
 
                         for x in gm[game_num]['EDEN']:
-                            username = str(x)
+                            username = cache[str(x)]
                             region = data[username]['Region']
                             if not region in players_region:
                                 players_region[region] = 1
@@ -371,7 +371,7 @@ class Game(commands.Cog):
                             EDENPLAYERS += f"{usr.mention}\n"
                         
                         for x in gm[game_num]['NAF']:
-                            username = str(x)
+                            username = cache[str(x)]
                             region = data[username]['Region']
                             if not region in players_region:
                                 players_region[region] = 1
@@ -437,30 +437,29 @@ class Game(commands.Cog):
                         with open('Config/Games.json','r') as f:
                             gm = json.load(f)
                         
+                        eden_players= ''
+                        naf_players = ''
+                        remaining_players = ''
+
+                        for x in gm[game_num]['EDEN']:                         
+                            usr = await self.bot.fetch_user(x)
+                            eden_players += f"{usr.mention}\n"
+                        
+                        for x in gm[game_num]['NAF']:
+                            usr = await self.bot.fetch_user(x)
+                            naf_players += f"{usr.mention}\n"   
+
+                        for x in gm[game_num]['Players']:
+                            usr = await self.bot.fetch_user(x)
+                            remaining_players += f"{usr.mention}\n"
+
+                        if eden_players == '':
+                            eden_players = 'NONE'
+                        
+                        if naf_players == '':
+                            naf_players = 'NONE'    
 
                         if not len(gm[game_num]['Players']) == 1:
-                            eden_players= ''
-                            naf_players = ''
-                            remaining_players = ''
-
-                            for x in gm[game_num]['EDEN']:                         
-                                usr = await self.bot.fetch_user(x)
-                                eden_players += f"{usr.mention}\n"
-                            
-                            for x in gm[game_num]['NAF']:
-                                usr = await self.bot.fetch_user(x)
-                                naf_players += f"{usr.mention}\n"   
-
-                            for x in gm[game_num]['Players']:
-                                usr = await self.bot.fetch_user(x)
-                                remaining_players += f"{usr.mention}\n"
-
-                            if eden_players == '':
-                                eden_players = 'NONE'
-                            
-                            if naf_players == '':
-                                naf_players = 'NONE'
-                                
                             Captain1 = await self.bot.fetch_user(gm[game_num]['Captain1'])
                             Captain2 = await self.bot.fetch_user(gm[game_num]['Captain2'])
                             embed = discord.Embed(color = discord.Color.green(),title = f"Game #{game_num}")
@@ -492,8 +491,8 @@ class Game(commands.Cog):
                             NAFPLAYERS = ''
                             ct1 = gm[game_num]['Captain1']
                             ct2 = gm[game_num]['Captain2']
-                            ct1 = str(ct1)
-                            ct2 = str(ct2)
+                            ct1 = cache[str(ct1)]
+                            ct2 = cache[str(ct2)]
 
                             players_region = {}
                             if data[ct1]['Region'] in players_region:
@@ -507,7 +506,7 @@ class Game(commands.Cog):
                                 players_region[data[ct2]['Region']] = 1
                                 
                             for x in gm[game_num]['EDEN']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1
@@ -519,7 +518,7 @@ class Game(commands.Cog):
                                 EDENPLAYERS += f"{usr.mention}\n"
                             
                             for x in gm[game_num]['NAF']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1
@@ -593,29 +592,29 @@ class Game(commands.Cog):
                         with open('Config/Games.json','r') as f:
                             gm = json.load(f)
                         
+                        eden_players= ''
+                        naf_players = ''
+                        remaining_players = ''
+
+                        for x in gm[game_num]['EDEN']:                         
+                            usr = await self.bot.fetch_user(x)
+                            eden_players += f"{usr.mention}\n"
+                        
+                        for x in gm[game_num]['NAF']:
+                            usr = await self.bot.fetch_user(x)
+                            naf_players += f"{usr.mention}\n"   
+
+                        for x in gm[game_num]['Players']:
+                            usr = await self.bot.fetch_user(x)
+                            remaining_players += f"{usr.mention}\n"
+
+                        if eden_players == '':
+                            eden_players = 'NONE'
+                        
+                        if naf_players == '':
+                            naf_players = 'NONE'  
+                        
                         if not len(gm[game_num]['Players']) == 1:
-                            eden_players= ''
-                            naf_players = ''
-                            remaining_players = ''
-
-                            for x in gm[game_num]['EDEN']:                         
-                                usr = await self.bot.fetch_user(x)
-                                eden_players += f"{usr.mention}\n"
-                            
-                            for x in gm[game_num]['NAF']:
-                                usr = await self.bot.fetch_user(x)
-                                naf_players += f"{usr.mention}\n"   
-
-                            for x in gm[game_num]['Players']:
-                                usr = await self.bot.fetch_user(x)
-                                remaining_players += f"{usr.mention}\n"
-
-                            if eden_players == '':
-                                eden_players = 'NONE'
-                            
-                            if naf_players == '':
-                                naf_players = 'NONE'
-                                
                             Captain1 = await self.bot.fetch_user(gm[game_num]['Captain1'])
                             Captain2 = await self.bot.fetch_user(gm[game_num]['Captain2'])
                             embed = discord.Embed(color = discord.Color.green(),title = f"Game #{game_num}")
@@ -647,8 +646,8 @@ class Game(commands.Cog):
 
                             ct1 = gm[game_num]['Captain1']
                             ct2 = gm[game_num]['Captain2']
-                            ct1 = str(ct1)
-                            ct2 = str(ct2)
+                            ct1 = cache[str(ct1)]
+                            ct2 = cache[str(ct2)]
 
                             players_region = {}
                             if data[ct1]['Region'] in players_region:
@@ -662,7 +661,7 @@ class Game(commands.Cog):
                                 players_region[data[ct2]['Region']] = 1
 
                             for x in gm[game_num]['EDEN']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1
@@ -675,7 +674,7 @@ class Game(commands.Cog):
                                 EDENPLAYERS += f"{usr.mention}\n"
                             
                             for x in gm[game_num]['NAF']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1
@@ -720,7 +719,6 @@ class Game(commands.Cog):
                         if user2.id in gm[game_num]['EDEN'] or user2.id in gm[game_num]['NAF']:
                             await ctx.send(':warning: This player is already PICKED.')
                             return
-                            
                         if len(gm[game_num]['Players']) == 1:
                             await ctx.send('------ `(Finalizing the game)` ------')
                             len1 = len(gm[game_num]['EDEN'])
@@ -748,8 +746,8 @@ class Game(commands.Cog):
                             NAFPLAYERS = ''
                             ct1 = gm[game_num]['Captain1']
                             ct2 = gm[game_num]['Captain2']
-                            ct1 = str(ct1)
-                            ct2 = str(ct2)
+                            ct1 = cache[str(ct1)]
+                            ct2 = cache[str(ct2)]
                             players_region = {}
                             if data[ct1]['Region'] in players_region:
                                 players_region[data[ct1]['Region']] += 1
@@ -762,7 +760,7 @@ class Game(commands.Cog):
                                 players_region[data[ct2]['Region']] = 1
 
                             for x in gm[game_num]['EDEN']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1
@@ -770,11 +768,12 @@ class Game(commands.Cog):
                                 else:
                                     players_region[region] += 1
                                 
+                                
                                 usr = await self.bot.fetch_user(x)
                                 EDENPLAYERS += f"{usr.mention}\n"
                             
                             for x in gm[game_num]['NAF']:
-                                username = str(x)
+                                username = cache[str(x)]
                                 region = data[username]['Region']
                                 if not region in players_region:
                                     players_region[region] = 1

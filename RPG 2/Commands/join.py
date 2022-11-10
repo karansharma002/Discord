@@ -92,10 +92,8 @@ class Join(commands.Cog):
 
                         msg = f'{total_players}/{max_players} - {ctx.author.mention} JOINED THE QUEUE'
                         embed = discord.Embed(color = discord.Color.dark_orange(),description = msg)
-                        print('HERE')
                         await ctx.send(embed = embed) 
-                        await asyncio.sleep(1)
-                        
+
                     if total_players == max_players:
                         while True:
                             if not active_games[str(current_game)]['Status'] == 'PENDING':
@@ -132,7 +130,9 @@ class Join(commands.Cog):
                         active_games[str(current_game + 1)]['Captain1'] = Captain1
                         active_games[str(current_game + 1)]['Captain2'] = Captain2
                         active_games[str(current_game + 1)]['Players'] = queue[str(current_game)]
-                        queue = {}
+                        queue.pop(str(current_game))
+                        queue.pop('Channel')
+                        queue.pop('Guild')
                         with open('Config/Queue.json','w') as f:
                             json.dump(queue,f,indent = 3)
 
@@ -148,7 +148,7 @@ class Join(commands.Cog):
                         with open('Config/Games.json','w') as f:
                             json.dump(active_games,f,indent = 3)
                         
-                        await ctx.send(f':crown: {Captain1.mention} and :crown: {Captain2.mention} has been selected as a CAPTAIN for the GAME NUMBER: {current_game + 1}')
+                        await ctx.send(f':crown: {Captain1.mention} and :crown: {Captain2.mention} has been selected as a CAPTAIN for the GAME NUMBER: {current_game}')
                         await ctx.send(f'{Captain1.mention} turn to pick. **(PICKS LEFT: 1)**')
                         embed = discord.Embed(title = f"Game {current_game + 1} - Current Teams",color = discord.Color.green())
                         embed.add_field(name = 'Team1',value = f"Captain: {Captain1.mention}",inline=  False)
@@ -183,8 +183,9 @@ class Join(commands.Cog):
                 await ctx.send(embed = embed)   
                 return
     
-        except Exception as e:
-            print(e)
+        except Exception:
+            import traceback
+            traceback.print_exc()
         
 def setup(bot):
     bot.add_cog(Join(bot))
