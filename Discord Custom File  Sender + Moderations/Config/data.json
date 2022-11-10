@@ -1,0 +1,39 @@
+{
+   "444391969964294145": {
+      "experience": 192,
+      "level": 1
+   },
+   "821023552433553449": {
+      "experience": 434,
+      "level": 0
+   },
+   "710462115831611444": {
+      "experience": 202,
+      "level": 0
+   },
+   "Numer": 8,
+   "Channel": "822775960259919873",
+   "Reminder5": {
+      "Reminder_Date": "2021-03-23",
+      "Reminder_Time": "09:14",
+      "Reminder_Reason": "YEAH",
+      "Reminder_Role": "LOL Bot",
+      "Repeat": "True",
+      "Days": 1
+   },
+   "Reminder6": {
+      "Reminder_Date": "2021-03-23",
+      "Reminder_Time": "09:14",
+      "Reminder_Reason": "YEAHH56",
+      "Reminder_Role": "new role",
+      "Repeat": "True",
+      "Days": 1
+   },
+   "Reminder7": {
+      "Reminder_Date": "2021-03-27",
+      "Reminder_Time": "09:14",
+      "Reminder_Reason": "YEAH566",
+      "Reminder_Role": "new role",
+      "Weeks": 1
+   }
+}

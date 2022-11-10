@@ -1,0 +1,4724 @@
+{
+   "569918672135782400": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "730378211099148319",
+      "Role ID": "729201857754562641",
+      "Channel ID": "729201857754562641",
+      "Mute Logs": "Disabled",
+      "Warning Logs": "Disabled",
+      "Mute ID": "730378211099148319",
+      "Warning ID": "730378211099148319",
+      "Message Delete": "Disabled",
+      "Message Edit": "Disabled"
+   },
+   "727501151137824789": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "721232967229374465": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "110373943822540800": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "333949691962195969": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "264445053596991498": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "709956080712810557": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723776336799203368": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723753408405831761": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled",
+      "Mute Logs": "Disabled",
+      "Warning Logs": "Disabled",
+      "Suggestion": "742042687032655913",
+      "Suggestion Num": 1,
+      "Message Delete": "Disabled",
+      "Message Edit": "Disabled"
+   },
+   "723401962623598623": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730953149694869534": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "585743025385373696": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732859704140759051": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728161710644658237": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "702009042750537808": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "698338243380510760": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732621033663889479": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "713636589514784850": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "695966271279333386": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "588955208231682058": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Enabled",
+      "User ID": "694697674817142835",
+      "Role ID": "694697674817142835",
+      "Channel ID": "694697674817142835"
+   },
+   "716173599530025001": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "139580434819317760": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "697527589455003770": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734388893620764693": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734670669643513876": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734666087026917436": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731370044168339486": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725805218507391036": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734671822330658826": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733303686465323108": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734672695626563634": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734612475311423579": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734537516039929937": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729026748125282346": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731951194372833302": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "721144117006041159": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "648258459405385729": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "708158676371898491": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734154779995144333": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734324732446507018": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734708310481305690": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694028803571449956": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734720947537444865": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734410969622642721": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "712018467007496262": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "712284940691046482": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734709603652075520": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734457899744624672": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "690921344313065503": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733900162744975401": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727121934508097598": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "718473240187633704": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728574542175535135": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734455669951823923": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "704624557884964894": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731814098639126538": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734678241750548490": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730110427610087445": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734465087724716062": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734123409847615508": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734634942218371083": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "611559861733425155": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "720985422443839600": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734465069555122240": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724787930606075935": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729714986909171752": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734480528941646025": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "622270727202013194": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730468061001547898": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734576156170256404": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726003493244239902": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "399556402500337665": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731184383289065494": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "704916804409098270": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734765911059333212": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725049947581579264": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734770772144291951": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731812785280909352": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734707718782451813": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734156518240551034": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "697517039732129864": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734563237810405546": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734771433292562503": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734546463832408265": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "392433033036431361": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734118862093680651": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734771651270672445": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730466081659027624": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "646012635627913236": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734461753261293578": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734773093301485640": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733696024220270664": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "681069495833329757": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727314567511670815": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734780594948538409": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732672846224031785": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734778491995684985": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734790038331719750": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "599340274912591872": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729380534278422539": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "710369954729558088": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734793865940303902": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723487576689737730": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734793812584562718": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "684763507534594077": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "370010575465349121": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734208660774846486": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727233612696649798": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733705451148935228": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733288759713464372": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "706243741702160485": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "566222734200406026": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725115406825553940": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734734668640944179": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725130972521037936": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732994741267988613": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729217650949095456": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733370033559830548": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734748091835744356": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "695707929390874674": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "533713401680232451": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "675029582688026652"
+   },
+   "730767795058507796": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "713868868426399794": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727330402603237386": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734818878353309806": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "716546202505576530": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732200061571956837": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734186404556439564": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734814176064831551": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734820894702174270": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734814754333392977": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "681096465883725897": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727977983968804934": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "713436492629934140": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730853912969478165": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734810965023129711": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734832566259024027": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734829809397661799": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734248172242731018": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734801847360946227": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734839008626081824": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "714140504144609362": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723958414614724690": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730146274564767777": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734843492504699031": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734843521013645384": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734807026990972968": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727217773587070999": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "676876627514359822": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "700839986760646750": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733733542000984165": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732834239254626384": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732354185906880614": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "695042952577417279": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734840578482634892": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734787593123922067": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734631839397838930": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "583494960427433999": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734831956507885609": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734858834870534364": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734137571591848118": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "711267203881894040": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "652865271089856525": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "665252729685540894": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734849944283906168": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "722614890308567110": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "669252726214885406": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "719962724804853793": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733270008112742480": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734174159432581211": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734863557556043778": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734874945783464056": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "698342949733400628": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725820846429569055": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723534358417244343": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734612591891972138": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "715303518772133909": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734884110094565386": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734785328526786690": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "707237860394139658": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724041500429647875": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734254913843888179": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "708351539957202984": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734877322632757259": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734553985431896114": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "702502125506134097": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724951555182297129": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734783075766108210": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733436111157723147": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "170656282087391232": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734895045836144782": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734906865347067915": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734160296138113096": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "711780562037374998": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734333847776264224": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729035817221095574": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724254944030621786": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "716163494898303068": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "402974940061499394": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734924000978927636": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "683083929967919110": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734922132773011486": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734912921267863583": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734714213833900104": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734897913129467985": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734850250736533564": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "711740172152078378": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732498431515426816": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "580878638719959054": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734591237348130916": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734955870772920362": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731937313361494196": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734946891430887505": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733540537835192371": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "575413860366811136": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732422944189317140": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734857118901076102": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734934008583946320": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725922879820267641": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "703607172411424830": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734276998687358997": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734979816973008996": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "603016639646269442": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733657357288210462": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734324616864202803": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "683425666347433995": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729908548506615930": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734967168911015966": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734971328452493392": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734983924056326265": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723625672940978224": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "703113601136721940": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734986292739178537": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734946593345765467": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733177163209113642": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732006063112454324": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "695869981170204692": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "719901255333314672": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Enabled",
+      "User ID": "735005875827376142",
+      "Role ID": "735005875827376142",
+      "Channel ID": "735005875827376142"
+   },
+   "735002148542087249": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733712799146049586": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734968567660806286": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "715091444712603688": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733192738660417628": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734662733953499217": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "671589851904344064": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734992429584744509": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734618732722257982": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Enabled",
+      "User ID": "734623818718511147",
+      "Role ID": "734623818718511147",
+      "Channel ID": "734623818718511147"
+   },
+   "734988585069183040": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "712772477708795915": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734320448522813531": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727981670048727100": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734867954843254785": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735041550157086771": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735017994161356830": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734039771621621760": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734079887962537986": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "714047288393203734": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735061158545063958": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733247334980517969": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732104003176890389": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694620839102120016": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735058816290259006": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735066158172209162": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727759489968898048": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735019005189816382": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733919027075743774": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734785640566095933": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735072090289602561": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735074118067814482": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727044701290627128": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734759969089650839": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "685893357704183855": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "704629658305429575": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734716881285677087": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730998969962070060": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "717397783849467964": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733279783760297995": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735085320705540106": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732600203772952697": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734787768529584129": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734026185071263804": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735095981674070048": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727535110492258305": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724516796010463304": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733904405212037120": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "570883246834057228": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "560551667225853982": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "429375490353004545": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735124291976298536": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733939240995651654": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735106745835192401": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "675442801357488140": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732057363741147227": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732309225107357857": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "714188426336796733": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734838286287372379": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735145635224748116": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735134169918734416": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734864916057686026": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Enabled",
+      "User ID": "735186100242350111",
+      "Role ID": "735186100242350111",
+      "Channel ID": "735186100242350111"
+   },
+   "703487937203142697": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "706935634077679708": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729340351017386045": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "433261997732397056": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "598797793598898186": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735159031915872386": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "465717108253261837": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "720928764397092944": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735164891174010900": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "706719212797820929": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730509923171041321": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "578693724561866763": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735183241840951306": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727817961175515177": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "702538750919442472": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "658366827692425237": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726090758158942219": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "682073581760544858": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731498932684849174": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "616439671718805504": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "536654129133649925": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734803298997108856": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735200606943445094": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "620563958092267531": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "693569247775031398": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "669942318375108618": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733328733603233793": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "599360232598011916": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "641298822991183913": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735204345796100177": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734243444712800288": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "506399669807480832": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "551573683567722536": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733330487791190060": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724549449501638717": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "633359803086798848": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735225778127503531": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734918116215095307": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735153058111029319": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733080472317460583": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "721505499614543872": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735075974730743828": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735110948263559288": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735234897421271142": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "699996750609645568": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734995858080137228": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "696145513933701186": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694262156832669716": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "716731395925344436": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735254025548726352": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735258224332243034": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723605203043090571": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "698660058078249040": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "718938277637521560": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733784450969894933": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735282080660848681": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "591243097007063061": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "671927402338975744": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735285905731878992": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732429554454495333": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "709494597482446869": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735263972311433266": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729895597548503070": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735262291611615272": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "720775247573418057": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735311915479203851": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735307077186224168": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735318456823709766": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "720782468978049025": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735312208958849146": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "713029494172024992": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735319422587371610": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735250125525614676": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732324026231291925": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735244567581818920": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728437913481904160": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735334816072990790": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728928963203825794": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728702195360595979": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734469331609714789": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734741738173890650": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "713800644145971231": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735356881698029619": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726167806642487317": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734089738759438437": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "326706077418782720": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734498617251070016": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734269671087538226": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726506775268032552": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "691491670029631520": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734713152524255252": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "470240233791684608": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729587429878530069": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "722169326475673670": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "585717940490469376": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735185490122244127": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "725264425266970724": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "642986137199050752": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "718570570039427097": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Enabled",
+      "User ID": "Disabled",
+      "Role ID": "733355887200305295",
+      "Channel ID": "Disabled"
+   },
+   "735377868476907560": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735406435793371168": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "709794534355370105": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735416613670486080": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735247670561603645": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734712548779360256": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735087676994355231": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "697187534371029032": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735444252003401798": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "622731761855758336": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735445829946572891": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "710180301585907732": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "586152437518434314": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735450169935396876": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730723600105209906": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727674201565036616": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735205131196563456": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734757499965800548": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735463689934602324": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734864106972250163": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694005768646688839": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Disabled",
+      "User ID": "694023002987167795",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734699408221929523": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735092302321680425": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735462839342596137": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735468629222490193": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731997670461145168": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735478520112742491": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732756125942022305": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735473259570659381": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "559218670685913127": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "723537163836457050": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "682295230392696842": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734771593104064555": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729347447738073158": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735272106257809462": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734569259581177857": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730372605084827678": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735457621439545436": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735493115216920639": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735482412871581767": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "722516105356116009": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734394068226015242": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "676870391851122716": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735114096357146646": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "459723457412988928": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735473762027175957": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "473905916673261579": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735505638523666453": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "600099816948760589": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735501448971812905": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "711240305092853890": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735225190438404258": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "653196175717040138": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "688700595367968837": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724929294786101329": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733984579723067422": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735194556299214990": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "671900185143803909": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735441064634351629": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735534545939726346": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735452580100178001": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "577516182501064715": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735536061224190022": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735229366623141980": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733714896385998858": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "608562938608877568": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735540451947315231": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735331534629896222": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735499332060577874": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735533741694386308": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "724000463325757469": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735251490696069142": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "526750031387033601": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735558521017598023": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735354777084493896": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735548892623536138": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735570233212928170": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731224791536894013": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735207977446932531": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726871436618104844": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735568539653636107": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735386976340934697": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734206184059568149": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "698950409544400960": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728177356874711040": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727583091069157497": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733275672537202812": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735272780500828181": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730874214625706116": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735573390705819650": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735511632540860536": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "580142492754903075": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733313305203965962": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "655941882328645656": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735580406358736959": {
+      "Channel Logs": "Enabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Enabled",
+      "User ID": "735633952534036561",
+      "Role ID": "735633952534036561",
+      "Channel ID": "735633952534036561"
+   },
+   "735594985453387847": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734800265495969863": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735262185651044422": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "721435868740714556": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735609383286734848": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735289120754237461": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732368137030467644": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732470203417493534": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734947742975000646": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735542285735034903": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733784652967575624": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "706464786262523976": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735619861799239807": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732612103457734666": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "489950590013538306": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735628515915071569": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735640076633112706": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735632881220583455": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "689015182445510656": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734161976577753168": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729424223109644289": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "696041295180726393": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "706344464305881089": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731751603471646811": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735656352130531369": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730570821277450261": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735640804982390875": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735534050550218852": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "691887598523646033": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733542793900982353": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "545427946106650624": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735660011337941123": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "731203269933793372": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "717894638396112918": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694474840438079490": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "711970438183387217": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735631623214727240": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733934293365161986": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734348754085216298": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735315852953387088": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735346610174689352": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735203808296173678": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734903967724601364": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730620696656609351": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735685071037792276": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "509624849933664268": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735695609360810037": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734630620071723069": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "563478097752490005": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734616335459287200": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735453876055965767": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735701120734855218": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "712596522146988042": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "610083803305738240": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "688469059628695561": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727827655654899802": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "691788685145931786": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735682813226909847": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735679375781134429": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "734793486246608936": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "497270249700458507": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735694463472762901": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "729661072516055172": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735704398340030565": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "728927128724308009": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "716286658034794568": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "515575199215910917": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled",
+      "Mute Logs": "Disabled",
+      "Warning Logs": "Disabled"
+   },
+   "735806328668160051": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "730823956545929246": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735682380840304711": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "710510637553418360": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "694279634786844863": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735998706343608451": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "652544152474615809": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled",
+      "Mute Logs": "Enabled",
+      "Warning Logs": "Disabled",
+      "Mute ID": "736172666444316702"
+   },
+   "725990161610964994": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736018551009181767": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "735622744946901052": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736016640252182628": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736097773488832613": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "716702307496099860": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "732522930252021762": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733625392488775700": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "733358891471077486": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736399529766813747": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "726409566014668891": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736103206995886160": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736656616748875826": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736954738016387142": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "727387835270955008": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "737253293989953607": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "737403498429153335": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "736878526749212693": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "717636514892480552": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Disabled",
+      "Role Logs": "Disabled",
+      "User ID": "Disabled",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled"
+   },
+   "853612129768701973": {
+      "Channel Logs": "Disabled",
+      "User Logs": "Enabled",
+      "Role Logs": "Disabled",
+      "User ID": "855040691440975882",
+      "Role ID": "Disabled",
+      "Channel ID": "Disabled",
+      "Mute Logs": "Enabled",
+      "Warning Logs": "Enabled",
+      "Message Delete": "Enabled",
+      "Message Edit": "Enabled",
+      "Warning ID": "855040769853096026",
+      "Message Delete ID": "855397015936565258",
+      "Message Edit ID": "855397015936565258",
+      "Mute ID": "855398017003945984",
+      "Verify_Channel": 853613449313910865
+   }
+}

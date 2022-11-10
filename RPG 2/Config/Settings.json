@@ -1,0 +1,19 @@
+{
+   "Region": [
+      "EU",
+      "NA",
+      "SA",
+      "SEA",
+      "ASIA"
+   ],
+   "Captain_%": 3,
+   "Current_Map": 1,
+   "Max_Players": 10,
+   "Max_Warnings": 3,
+   "Ban_Duration": 48,
+   "Score_Channel": 701816035711647774,
+   "Win_Points": 10,
+   "Lose_Points": 8,
+   "Bot_Channel": 750355663208579133,
+   "Register_Channel": 688117198471954476
+}

@@ -1,0 +1,11 @@
+STRONG/USDT https://trade.kucoin.com/STRONG-USDT
+BCHA/USDT https://trade.kucoin.com/BCHA-USDT
+WEST/USDT https://trade.kucoin.com/WEST-USDT
+LON/USDT https://trade.kucoin.com/LON-USDT
+ACOIN/USDT https://trade.kucoin.com/ACOIN-USDT
+SDT/USDT https://trade.kucoin.com/SDT-USDT
+ARX/USDT https://trade.kucoin.com/ARX-USDT
+MXW/USDT https://trade.kucoin.com/MXW-USDT
+SERO/USDT https://trade.kucoin.com/SERO-USDT
+REAP/USDT https://trade.kucoin.com/REAP-USDT
+

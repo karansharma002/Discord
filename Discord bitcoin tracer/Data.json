@@ -1,0 +1,27 @@
+{
+    "Triceratops":{
+        "Stock":5,
+        "Name": "Suitsaur #1",
+        "Amount": 301001
+    },
+    "Parasaurolophus":{
+        "Stock":5,
+        "Name": "Suitsaur #1",
+        "Amount": 301001
+    },
+    "Stegosaurus":{
+        "Stock":5,
+        "Name": "Suitsaur #1",
+        "Amount": 301001
+    },
+    "Allosaurus":{
+        "Stock":5,
+        "Name": "Suitsaur #1",
+        "Amount": 301001
+    },
+    "Brachiosaurus":{
+        "Stock":5,
+        "Name": "Suitsaur #1",
+        "Amount": 301001
+    }
+}

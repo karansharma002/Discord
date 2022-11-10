@@ -1,0 +1,4690 @@
+{
+    "721232967229374465": {
+        "Prefix": "+",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "721232967229374468",
+        "Leave ID": "721703854667857960",
+        "Autorole": "test"
+    },
+    "569918672135782400": {
+        "Prefix": "!",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "729201857754562641",
+        "Leave ID": "729201857754562641",
+        "Autorole": "Disabled"
+    },
+    "110373943822540800": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "333949691962195969": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "264445053596991498": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "709956080712810557": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723776336799203368": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723753408405831761": {
+        "Prefix": "+",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "723753408405831764",
+        "Leave ID": "723753408405831764",
+        "Autorole": "Fillorians \u2764"
+    },
+    "723401962623598623": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730953149694869534": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "585743025385373696": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732859704140759051": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728161710644658237": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "702009042750537808": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "698338243380510760": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732621033663889479": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "713636589514784850": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "695966271279333386": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "588955208231682058": {
+        "Prefix": "~",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "693663494049890394",
+        "Leave ID": "693663494049890394",
+        "Autorole": "Kohai"
+    },
+    "716173599530025001": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "139580434819317760": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "697527589455003770": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734388893620764693": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734670669643513876": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734666087026917436": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731370044168339486": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725805218507391036": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734671822330658826": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733303686465323108": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734672695626563634": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734612475311423579": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734537516039929937": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729026748125282346": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731951194372833302": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "721144117006041159": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "648258459405385729": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "708158676371898491": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734154779995144333": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734324732446507018": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734708310481305690": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694028803571449956": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734720947537444865": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734410969622642721": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "712018467007496262": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "712284940691046482": {
+        "Prefix": "f.",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734709603652075520": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734457899744624672": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "690921344313065503": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733900162744975401": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727121934508097598": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "718473240187633704": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728574542175535135": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734455669951823923": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "704624557884964894": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731814098639126538": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734678241750548490": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730110427610087445": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734465087724716062": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734123409847615508": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734634942218371083": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "611559861733425155": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "720985422443839600": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "UYE"
+    },
+    "734465069555122240": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724787930606075935": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729714986909171752": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734480528941646025": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "622270727202013194": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730468061001547898": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734576156170256404": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726003493244239902": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "399556402500337665": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731184383289065494": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "704916804409098270": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734765911059333212": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725049947581579264": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734770772144291951": {
+        "Prefix": "f+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731812785280909352": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734707718782451813": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734156518240551034": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "697517039732129864": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734563237810405546": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734771433292562503": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734546463832408265": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "392433033036431361": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734118862093680651": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734771651270672445": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730466081659027624": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "646012635627913236": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734461753261293578": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734773093301485640": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733696024220270664": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "681069495833329757": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727314567511670815": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734780594948538409": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732672846224031785": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734778491995684985": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734790038331719750": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "599340274912591872": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729380534278422539": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "710369954729558088": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734793865940303902": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723487576689737730": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734793812584562718": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "684763507534594077": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "370010575465349121": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734208660774846486": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727233612696649798": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733705451148935228": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733288759713464372": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "706243741702160485": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "566222734200406026": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725115406825553940": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734734668640944179": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725130972521037936": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732994741267988613": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729217650949095456": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733370033559830548": {
+        "Prefix": "f!",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734748091835744356": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "695707929390874674": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "533713401680232451": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730767795058507796": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "713868868426399794": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727330402603237386": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734818878353309806": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "716546202505576530": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732200061571956837": {
+        "Prefix": "x",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734186404556439564": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734814176064831551": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734820894702174270": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734814754333392977": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "681096465883725897": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727977983968804934": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "713436492629934140": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730853912969478165": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734810965023129711": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734832566259024027": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734829809397661799": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734248172242731018": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734801847360946227": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734839008626081824": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "714140504144609362": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723958414614724690": {
+        "Prefix": "+",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "734625709493846157",
+        "Leave ID": "734625709493846157",
+        "Autorole": "Disabled"
+    },
+    "730146274564767777": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734843492504699031": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734843521013645384": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734807026990972968": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727217773587070999": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "676876627514359822": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "700839986760646750": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733733542000984165": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732834239254626384": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732354185906880614": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "695042952577417279": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734840578482634892": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734787593123922067": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734631839397838930": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "583494960427433999": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734831956507885609": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734858834870534364": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734137571591848118": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "711267203881894040": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "652865271089856525": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "665252729685540894": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734849944283906168": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "722614890308567110": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "669252726214885406": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "719962724804853793": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733270008112742480": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734174159432581211": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734863557556043778": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Guest"
+    },
+    "734874945783464056": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "698342949733400628": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725820846429569055": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723534358417244343": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734612591891972138": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "715303518772133909": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734884110094565386": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734785328526786690": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "707237860394139658": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724041500429647875": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734254913843888179": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": "734817055622299790",
+        "Leave ID": 0,
+        "Autorole": "Reina"
+    },
+    "708351539957202984": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734877322632757259": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734553985431896114": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "702502125506134097": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724951555182297129": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734783075766108210": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733436111157723147": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "170656282087391232": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734895045836144782": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734906865347067915": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734160296138113096": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "711780562037374998": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734333847776264224": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729035817221095574": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724254944030621786": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "716163494898303068": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "402974940061499394": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734924000978927636": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "683083929967919110": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734922132773011486": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734912921267863583": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734714213833900104": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734897913129467985": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734850250736533564": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "711740172152078378": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732498431515426816": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "580878638719959054": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734591237348130916": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734955870772920362": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731937313361494196": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734946891430887505": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733540537835192371": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "575413860366811136": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732422944189317140": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734857118901076102": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734934008583946320": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725922879820267641": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "703607172411424830": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734276998687358997": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734979816973008996": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "603016639646269442": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733657357288210462": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734324616864202803": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "683425666347433995": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729908548506615930": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734967168911015966": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734971328452493392": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734983924056326265": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723625672940978224": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "703113601136721940": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734986292739178537": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734946593345765467": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733177163209113642": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732006063112454324": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "695869981170204692": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "719901255333314672": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735002148542087249": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733712799146049586": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734968567660806286": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "715091444712603688": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733192738660417628": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734662733953499217": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "671589851904344064": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734992429584744509": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734618732722257982": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734988585069183040": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "712772477708795915": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734320448522813531": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727981670048727100": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734867954843254785": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735041550157086771": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735017994161356830": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734039771621621760": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734079887962537986": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "714047288393203734": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735061158545063958": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733247334980517969": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732104003176890389": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694620839102120016": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735058816290259006": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735066158172209162": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727759489968898048": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735019005189816382": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733919027075743774": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734785640566095933": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735072090289602561": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735074118067814482": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727044701290627128": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734759969089650839": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "685893357704183855": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "704629658305429575": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734716881285677087": {
+        "Prefix": "-",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730998969962070060": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "717397783849467964": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733279783760297995": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735085320705540106": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732600203772952697": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734787768529584129": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734026185071263804": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735095981674070048": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727535110492258305": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724516796010463304": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733904405212037120": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "570883246834057228": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "560551667225853982": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "429375490353004545": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735124291976298536": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733939240995651654": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735106745835192401": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "675442801357488140": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732057363741147227": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732309225107357857": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "714188426336796733": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734838286287372379": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735145635224748116": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735134169918734416": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734864916057686026": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "703487937203142697": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "706935634077679708": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729340351017386045": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "433261997732397056": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "598797793598898186": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735159031915872386": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "465717108253261837": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "720928764397092944": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735164891174010900": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "706719212797820929": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730509923171041321": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "578693724561866763": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735183241840951306": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727817961175515177": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "702538750919442472": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "658366827692425237": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726090758158942219": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "682073581760544858": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731498932684849174": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "616439671718805504": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "536654129133649925": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734803298997108856": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735200606943445094": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "620563958092267531": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "693569247775031398": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "669942318375108618": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733328733603233793": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "599360232598011916": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "641298822991183913": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735204345796100177": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734243444712800288": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "506399669807480832": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "551573683567722536": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733330487791190060": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724549449501638717": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "633359803086798848": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735225778127503531": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734918116215095307": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735153058111029319": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733080472317460583": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "721505499614543872": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735075974730743828": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735110948263559288": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735234897421271142": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "699996750609645568": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734995858080137228": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "696145513933701186": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694262156832669716": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "716731395925344436": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735254025548726352": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735258224332243034": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723605203043090571": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "698660058078249040": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "718938277637521560": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733784450969894933": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735282080660848681": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "591243097007063061": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "671927402338975744": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735285905731878992": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732429554454495333": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "709494597482446869": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735263972311433266": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729895597548503070": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735262291611615272": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "720775247573418057": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735311915479203851": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735307077186224168": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735318456823709766": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "720782468978049025": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735312208958849146": {
+        "Prefix": "f!",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "713029494172024992": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735319422587371610": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735250125525614676": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732324026231291925": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735244567581818920": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728437913481904160": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735334816072990790": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728928963203825794": {
+        "Prefix": "+",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "735678957948502016",
+        "Leave ID": "731024363666800661",
+        "Autorole": "Disabled"
+    },
+    "728702195360595979": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734469331609714789": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734741738173890650": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "713800644145971231": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735356881698029619": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726167806642487317": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734089738759438437": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Member"
+    },
+    "326706077418782720": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734498617251070016": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734269671087538226": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726506775268032552": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "691491670029631520": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734713152524255252": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "470240233791684608": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729587429878530069": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "722169326475673670": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "585717940490469376": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735185490122244127": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "725264425266970724": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "642986137199050752": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "718570570039427097": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735377868476907560": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735406435793371168": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "709794534355370105": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735416613670486080": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735247670561603645": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734712548779360256": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735087676994355231": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "697187534371029032": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735444252003401798": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "622731761855758336": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735445829946572891": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "710180301585907732": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "586152437518434314": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735450169935396876": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730723600105209906": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727674201565036616": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735205131196563456": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734757499965800548": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735463689934602324": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734864106972250163": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694005768646688839": {
+        "Prefix": "*",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Enabled",
+        "Join ID": 0,
+        "Leave ID": "694013332868562954",
+        "Autorole": "Disabled"
+    },
+    "734699408221929523": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735092302321680425": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735462839342596137": {
+        "Prefix": "!",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735468629222490193": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731997670461145168": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735478520112742491": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732756125942022305": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735473259570659381": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "559218670685913127": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "723537163836457050": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "682295230392696842": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734771593104064555": {
+        "Prefix": "::",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729347447738073158": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735272106257809462": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734569259581177857": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730372605084827678": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735457621439545436": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735493115216920639": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735482412871581767": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "722516105356116009": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734394068226015242": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "676870391851122716": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735114096357146646": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "459723457412988928": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735473762027175957": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "473905916673261579": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "ninjas"
+    },
+    "735505638523666453": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "600099816948760589": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735501448971812905": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "711240305092853890": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735225190438404258": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "653196175717040138": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "688700595367968837": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724929294786101329": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733984579723067422": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735194556299214990": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "671900185143803909": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735441064634351629": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735534545939726346": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735452580100178001": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "577516182501064715": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735536061224190022": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735229366623141980": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733714896385998858": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "608562938608877568": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735540451947315231": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735331534629896222": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735499332060577874": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735533741694386308": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "724000463325757469": {
+        "Prefix": "/",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735251490696069142": {
+        "Prefix": "+",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Disabled",
+        "Join ID": "735525295712370839",
+        "Leave ID": 0,
+        "Autorole": "Compis"
+    },
+    "526750031387033601": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735558521017598023": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735354777084493896": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735548892623536138": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735570233212928170": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731224791536894013": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735207977446932531": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726871436618104844": {
+        "Prefix": "-",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735568539653636107": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735386976340934697": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734206184059568149": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "698950409544400960": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728177356874711040": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727583091069157497": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733275672537202812": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735272780500828181": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730874214625706116": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735573390705819650": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735511632540860536": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "580142492754903075": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733313305203965962": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "655941882328645656": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735580406358736959": {
+        "Prefix": "she/her",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "visitor"
+    },
+    "735594985453387847": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734800265495969863": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735262185651044422": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "721435868740714556": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735609383286734848": {
+        "Prefix": "\u2022",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735289120754237461": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732368137030467644": {
+        "Prefix": "P",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732470203417493534": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734947742975000646": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735542285735034903": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733784652967575624": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "706464786262523976": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735619861799239807": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732612103457734666": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "489950590013538306": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735628515915071569": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735640076633112706": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735632881220583455": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "689015182445510656": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734161976577753168": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729424223109644289": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "696041295180726393": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "706344464305881089": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731751603471646811": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735656352130531369": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730570821277450261": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735640804982390875": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735534050550218852": {
+        "Prefix": "f!",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "691887598523646033": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733542793900982353": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "545427946106650624": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735660011337941123": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "731203269933793372": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "717894638396112918": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694474840438079490": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "711970438183387217": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735631623214727240": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733934293365161986": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734348754085216298": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735315852953387088": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735346610174689352": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735203808296173678": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734903967724601364": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730620696656609351": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735685071037792276": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "509624849933664268": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735695609360810037": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734630620071723069": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "563478097752490005": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734616335459287200": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735453876055965767": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735701120734855218": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "712596522146988042": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "610083803305738240": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "688469059628695561": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727827655654899802": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "691788685145931786": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735682813226909847": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735679375781134429": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "734793486246608936": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "497270249700458507": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735694463472762901": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "729661072516055172": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735704398340030565": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "728927128724308009": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "716286658034794568": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "515575199215910917": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735806328668160051": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "730823956545929246": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735682380840304711": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "710510637553418360": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "694279634786844863": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735998706343608451": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "652544152474615809": {
+        "Prefix": "p",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Enabled",
+        "Join ID": 0,
+        "Leave ID": "736172666444316702",
+        "Autorole": "Disabled"
+    },
+    "725990161610964994": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736018551009181767": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "735622744946901052": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736016640252182628": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736097773488832613": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "716702307496099860": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "732522930252021762": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733625392488775700": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "733358891471077486": {
+        "Prefix": "f!",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736399529766813747": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "726409566014668891": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736103206995886160": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736656616748875826": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736954738016387142": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "727387835270955008": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "737253293989953607": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "737403498429153335": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "736878526749212693": {
+        "Prefix": "+",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "717636514892480552": {
+        "Prefix": "f.",
+        "Join_Message": "Disabled",
+        "Leave_Message": "Disabled",
+        "Join ID": 0,
+        "Leave ID": 0,
+        "Autorole": "Disabled"
+    },
+    "853612129768701973": {
+        "Prefix": "f.",
+        "Join_Message": "Enabled",
+        "Leave_Message": "Enabled",
+        "Join ID": "855397642146545704",
+        "Leave ID": "855398017003945984",
+        "Autorole": "Disabled"
+    }
+}

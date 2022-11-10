@@ -1,0 +1,3012 @@
+------------ DISCORD INSTANCE STARTED ----------
+------------ DISCORD INSTANCE STARTED ----------
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command help:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command upload:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command restrict:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 92, in setduration
+    channel = await bot.fetch_channel(s[x])
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+------------ DISCORD INSTANCE STARTED ----------
+Traceback (most recent call last):
+  File "Main.py", line 13, in <module>
+    import pytz
+ModuleNotFoundError: No module named 'pytz'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Upload" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+    channel = await bot.fetch_channel(s[x])
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+    channel = await bot.fetch_channel(s[x])
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+    embed=discord.Embed(description = name,color=0x00ff84)
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 80, in setduration
+    words = [line.strip() for line in open(f'{file_name}.txt')]
+FileNotFoundError: [Errno 2] No such file or directory: '.txt'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: '.txt'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+------------ DISCORD INSTANCE STARTED ----------
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setdays" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setaction" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setaction" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setdays" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "welcome" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "welcome" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reactrole" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "STPT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "STPT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+------------ DISCORD INSTANCE STARTED ----------
+Traceback (most recent call last):
+  File "Setup.py", line 6, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+'Target'
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+  File "Setup.py", line 69
+    ch = await.bot.fetch_channel(823602321103388742)
+              ^
+SyntaxError: invalid syntax
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sestup" is not found
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command setlogs:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+'Picked'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+LAUNCHED FOR 2
+'Target'
+'Target'
+'Target'
+'Target'
+'Target'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "8" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "30" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "30" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUs" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "URUS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "showreminders" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hit" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "EEENF" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "welcome" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reminder" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "10" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "900" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "LSK" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "FOX" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1.3" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1.1" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "BERN" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "WSFT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "PSWW" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "GME" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "PSWW" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Mile" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "shodan" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "exploitdb" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reverseip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ISWH" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "TAD" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "40" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "GME" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "jedi" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "TLSS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "namp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "whois" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hibp" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "geoip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "sqli" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reverseip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nmap" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reverseip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reverseip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "reverseip" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "toggle" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "toggle" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "shodan" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "createrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "balance" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "balances" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "withdraw" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+Traceback (most recent call last):
+  File "M.py", line 2, in <module>
+    import tweepy
+ModuleNotFoundError: No module named 'tweepy'
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentupload" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recent" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "withdraw" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "bals" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "bals" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "lina" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "500" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "2000" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setdays" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setaction" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "bals" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setduraation" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "100" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 467, in _actual_conversion
+    return converter(argument)
+ValueError: invalid literal for int() with base 10: ')'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 790, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 476, in _actual_conversion
+    raise BadArgument('Converting to "{}" failed for parameter "{}".'.format(name, param.name)) from exc
+discord.ext.commands.errors.BadArgument: Converting to "int" failed for parameter "max_servers".
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "CTK?" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "GLM" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "bals" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "balance" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "OGN" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ogn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ogn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "OGN" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "OGN" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "60" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "searchrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "searchrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "2100" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1000" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "500" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "WSFT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "100" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "MARA" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "270" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "MTL" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "DMG" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "4" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "10" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "EEENF" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "AKRO" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "AKRO" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SLP" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "BRZL" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "50-175" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "45/month," is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "prizes" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "timeframe" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "15k" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "5k" is not found
+Ignoring exception in command None:Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "search" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentupload" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recent" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Unhandled exception in internal background task 'fetch_tw'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "M.py", line 28, in fetch_tw
+    tweets = api.user_timeline(screen_name = 'fxvitali')
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: Twitter error response: status code = 503
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "M.py", line 19, in on_ready
+    await fetch_tw.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 125, in _loop
+    raise exc
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "M.py", line 28, in fetch_tw
+    tweets = api.user_timeline(screen_name = 'fxvitali')
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: Twitter error response: status code = 503
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "recentuploads" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "searchrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "searchrepo" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "prizes" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "timeframe" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setupimages" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setupimage" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setimages" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+
+discord.ext.commands.errors.CommandNotFound: Command "1.4" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "UPC" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setupimages" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setupimage" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setimages" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "EEENF" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SPARTA" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "rank" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 93, in setduration
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 1457, in fetch_channel
+    data = await self.http.get_channel(channel_id)
+  File "/usr/local/lib/python3.7/site-packages/discord/http.py", line 243, in request
+    raise NotFound(r, data)
+discord.errors.NotFound: 404 Not Found (error code: 10003): Unknown Channel
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NotFound: 404 Not Found (error code: 10003): Unknown Channel
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "500" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "GTO" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "safemoon" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "safemoon" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "WSFT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "WSFT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "300" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "moke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "120" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "250" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "ADA" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "CHAIN" is not found
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 790, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/converter.py", line 331, in convert
+    raise ChannelNotFound(argument)
+discord.ext.commands.errors.ChannelNotFound: Channel "3" not found.
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 790, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/converter.py", line 331, in convert
+    raise ChannelNotFound(argument)
+discord.ext.commands.errors.ChannelNotFound: Channel "2" not found.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SOS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "WSFT" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "100" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Bondly" is not found
+Ignoring exception in command setup:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 790, in prepare
+    await self._parse_arguments(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 697, in _parse_arguments
+    transformed = await self.transform(ctx, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 552, in transform
+    return await self.do_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 505, in do_conversion
+    return await self._actual_conversion(ctx, converter, argument, param)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 451, in _actual_conversion
+    ret = await instance.convert(ctx, argument)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/converter.py", line 331, in convert
+    raise ChannelNotFound(argument)
+discord.ext.commands.errors.ChannelNotFound: Channel "50688c608d062222c719b16490a0f374" not found.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "98" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "0.009" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "900" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "92" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cc" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "embed" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "nuke" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "embed" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "embed" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setchannel" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SOS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "hot" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "Main.py", line 86, in setduration
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SOS" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "settext" is not found
+------------ DISCORD INSTANCE STARTED ----------
+STARTED
+STARTED
+STARTED
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+STARTED
+[{'code': 385, 'message': 'You attempted to reply to a Tweet that is deleted or not visible to you.'}]
+[{'code': 385, 'message': 'You attempted to reply to a Tweet that is deleted or not visible to you.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+discord.ext.commands.errors.CommandNotFound: Command "embed" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "build" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announce" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "message" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "warn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "removewarn" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "settext" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setup" is not found
+STARTED
+Unhandled exception in internal background task 'fetch_tw'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 44, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "Main.py", line 13, in on_ready
+    await fetch_tw.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 125, in _loop
+    raise exc
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 44, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+[{'code': 326, 'message': 'To protect our users from spam and other malicious activity, this account is temporarily locked. Please log in to https://twitter.com to unlock your account.'}]
+Unhandled exception in internal background task 'fetch_tw'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 45, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: Twitter error response: status code = 503
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "Main.py", line 13, in on_ready
+    await fetch_tw.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 125, in _loop
+    raise exc
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 45, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: Twitter error response: status code = 503
+STARTED
+Unhandled exception in internal background task 'fetch_tw'.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 438, in _error_catcher
+    yield
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 519, in read
+    data = self._fp.read(amt) if not fp_closed else b""
+  File "/usr/lib64/python3.7/http/client.py", line 461, in read
+    n = self.readinto(b)
+  File "/usr/lib64/python3.7/http/client.py", line 505, in readinto
+    n = self.fp.readinto(b)
+  File "/usr/lib64/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib64/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib64/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 753, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 576, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 541, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "/usr/lib64/python3.7/contextlib.py", line 130, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 443, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.")
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 190, in execute
+    proxies=self.api.proxy)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 697, in send
+    r.content
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 831, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 760, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 44, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 192, in execute
+    six.reraise(TweepError, TweepError('Failed to send request: %s' % e), sys.exc_info()[2])
+  File "/usr/local/lib/python3.7/site-packages/six.py", line 702, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 190, in execute
+    proxies=self.api.proxy)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 697, in send
+    r.content
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 831, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 760, in generate
+    raise ConnectionError(e)
+tweepy.error.TweepError: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 438, in _error_catcher
+    yield
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 519, in read
+    data = self._fp.read(amt) if not fp_closed else b""
+  File "/usr/lib64/python3.7/http/client.py", line 461, in read
+    n = self.readinto(b)
+  File "/usr/lib64/python3.7/http/client.py", line 505, in readinto
+    n = self.fp.readinto(b)
+  File "/usr/lib64/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib64/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib64/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 753, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 576, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 541, in read
+    raise IncompleteRead(self._fp_bytes_read, self.length_remaining)
+  File "/usr/lib64/python3.7/contextlib.py", line 130, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/usr/local/lib/python3.7/site-packages/urllib3/response.py", line 443, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.")
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 190, in execute
+    proxies=self.api.proxy)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 697, in send
+    r.content
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 831, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 760, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.twitter.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "Main.py", line 13, in on_ready
+    await fetch_tw.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 125, in _loop
+    raise exc
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 101, in _loop
+    await self.coro(*args, **kwargs)
+  File "Main.py", line 44, in fetch_tw
+    fetched_tweets = api.search(keyword, count = 10000)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 192, in execute
+    six.reraise(TweepError, TweepError('Failed to send request: %s' % e), sys.exc_info()[2])
+  File "/usr/local/lib/python3.7/site-packages/six.py", line 702, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/local/lib/python3.7/site-packages/tweepy/binder.py", line 190, in execute
+    proxies=self.api.proxy)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.7/site-packages/requests/sessions.py", line 697, in send
+    r.content
+  File "/usr/local/lib/python3.7/site-packages/requests/models.py", line 831, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "$$" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "1=1" is not found
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:00
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:00
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:00
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:00
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:00
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "GME" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "6bil" is not found
+------------ DISCORD INSTANCE STARTED ----------
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00
+Ignoring exception in command setduration:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "M.py", line 78, in setduration
+    diff = (datetime.strptime(event_time, f) - datetime.strptime(nw, f)).total_seconds()
+  File "/usr/lib64/python3.7/_strptime.py", line 577, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/usr/lib64/python3.7/_strptime.py", line 362, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: :00:
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ValueError: unconverted data remains: :00:
+------------ DISCORD INSTANCE STARTED ----------
+Traceback (most recent call last):
+  File "MM.py", line 128, in <module>
+    bot.run('ODMzNDE1MDA0ODE1ODg0Mjg4.YHyANQ.OdnTf9L-GR6vQX81-1XnQvWI56g')
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 718, in run
+    return future.result()
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 697, in runner
+    await self.start(*args, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 661, in start
+    await self.connect(reconnect=reconnect)
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 596, in connect
+    raise PrivilegedIntentsRequired(exc.shard_id) from None
+discord.errors.PrivilegedIntentsRequired: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command setcooldown:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 856, in invoke
+    await self.prepare(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 778, in prepare
+    if not await self.can_run(ctx):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in can_run
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/utils.py", line 336, in async_all
+    for elem in gen:
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1081, in <genexpr>
+    return await discord.utils.async_all(predicate(ctx) for predicate in predicates)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 1780, in predicate
+    raise MissingPermissions(missing)
+discord.ext.commands.errors.MissingPermissions: You are missing Administrator permission(s) to run this command.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "timdelta" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcountdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "countdown" is not found
+-------------- SERVER HAS STARTED ---------------
+Thursday, January 01, 1970 12:00:21
+Thursday, January 01, 1970 12:00:56
+Thursday, January 01, 1970 12:00:52
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "setcooldown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "invites" is not found
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "MM.py", line 15, in on_ready
+    update_time.start()
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/tasks/__init__.py", line 205, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "SELL" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "dump" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "!!!!!!!!!!¡!!!!" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "contdown" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "announcement" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "coin" is not found
+Ignoring exception in command setcountdown:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 514, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 525, in pandas._libs.tslib.array_to_datetime
+TypeError: invalid string coercion to datetime
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "MM.py", line 66, in setcountdown
+    a = str(pd.to_datetime(str(dt)+' '+ str(tm)))
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 832, in to_datetime
+    result = convert_listlike(np.array([arg]), format)[0]
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 472, in _convert_listlike_datetimes
+    allow_object=True,
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2090, in objects_to_datetime64ns
+    raise e
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2081, in objects_to_datetime64ns
+    require_iso8601=require_iso8601,
+  File "pandas/_libs/tslib.pyx", line 364, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 591, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 726, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslib.pyx", line 717, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ParserError: hour must be in 0..23: 2021-04-21 24
+Ignoring exception in command setcountdown:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 514, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 525, in pandas._libs.tslib.array_to_datetime
+TypeError: invalid string coercion to datetime
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "MM.py", line 66, in setcountdown
+    a = str(pd.to_datetime(str(dt)+' '+ str(tm)))
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 832, in to_datetime
+    result = convert_listlike(np.array([arg]), format)[0]
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 472, in _convert_listlike_datetimes
+    allow_object=True,
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2090, in objects_to_datetime64ns
+    raise e
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2081, in objects_to_datetime64ns
+    require_iso8601=require_iso8601,
+  File "pandas/_libs/tslib.pyx", line 364, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 591, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 726, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslib.pyx", line 717, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ParserError: hour must be in 0..23: 2021-04-21 24
+Ignoring exception in command setcountdown:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 514, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24:00
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "pandas/_libs/tslib.pyx", line 525, in pandas._libs.tslib.array_to_datetime
+TypeError: invalid string coercion to datetime
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 655, in parse
+    ret = self._build_naive(res, default)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1241, in _build_naive
+    naive = default.replace(**repl)
+ValueError: hour must be in 0..23
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "MM.py", line 66, in setcountdown
+    a = str(pd.to_datetime(str(dt)+' '+ str(tm)))
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 832, in to_datetime
+    result = convert_listlike(np.array([arg]), format)[0]
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/tools/datetimes.py", line 472, in _convert_listlike_datetimes
+    allow_object=True,
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2090, in objects_to_datetime64ns
+    raise e
+  File "/usr/local/lib64/python3.7/site-packages/pandas/core/arrays/datetimes.py", line 2081, in objects_to_datetime64ns
+    require_iso8601=require_iso8601,
+  File "pandas/_libs/tslib.pyx", line 364, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 591, in pandas._libs.tslib.array_to_datetime
+  File "pandas/_libs/tslib.pyx", line 726, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslib.pyx", line 717, in pandas._libs.tslib.array_to_datetime_object
+  File "pandas/_libs/tslibs/parsing.pyx", line 243, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/usr/local/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 657, in parse
+    six.raise_from(ParserError(e.args[0] + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: hour must be in 0..23: 2021-04-21 24:00
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/bot.py", line 902, in invoke
+    await ctx.command.invoke(ctx)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 864, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/usr/local/lib/python3.7/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: ParserError: hour must be in 0..23: 2021-04-21 24:00
+-------------- SERVER HAS STARTED ---------------
+-------------- SERVER HAS STARTED ---------------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+-------------- SERVER HAS STARTED ---------------

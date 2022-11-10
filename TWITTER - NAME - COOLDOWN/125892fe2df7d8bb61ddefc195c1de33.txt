@@ -1,0 +1,14 @@
+SAND/USDT https://trade.kucoin.com/SAND-USDT
+SDT/USDT https://trade.kucoin.com/SDT-USDT
+UMA/USDT https://trade.kucoin.com/UMA-USDT
+FORESTPLUS/USDT https://trade.kucoin.com/FORESTPLUS-USDT
+REAP/USDT https://trade.kucoin.com/REAP-USDT
+USDJ/USDT https://trade.kucoin.com/USDJ-USDT
+DODO/USDT https://trade.kucoin.com/DODO-USDT
+MLK/USDT https://trade.kucoin.com/MLK-USDT
+PMGT/USDT https://trade.kucoin.com/PMGT-USDT
+CBC/USDT https://trade.kucoin.com/CBC-USDT
+JST/USDT https://trade.kucoin.com/JST-USDT
+DFI/USDT https://trade.kucoin.com/DFI-USDT
+CKB/USDT https://trade.kucoin.com/CKB-USDT
+LON/USDT https://trade.kucoin.com/LON-USDT
