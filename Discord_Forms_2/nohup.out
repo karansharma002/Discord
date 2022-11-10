@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/ec2-user/Discord_Forms_2/Forwarder.py", line 9, in <module>
+    import gspread
+ModuleNotFoundError: No module named 'gspread'
+Traceback (most recent call last):
+  File "/home/ec2-user/Discord_Forms_2/Forwarder.py", line 10, in <module>
+    from oauth2client.service_account import ServiceAccountCredentials
+ModuleNotFoundError: No module named 'oauth2client'

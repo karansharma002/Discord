@@ -2,25 +2,22 @@ import discord
 from discord.ext import commands
 import json
 
-bot = commands.Bot(command_prefix = '!')
+bot = commands.Bot(command_prefix = '!', selfbot = True)
 
 
 @bot.event
 async def on_ready():
     print('------- STARTED FORWARDING -------')
+    await bot.wait_until_ready()
 
 
 @bot.event
 async def on_message(message):
-    channels_data = {
-        "951616970665635910": "https://discord.com/api/webhooks/965632281270190220/_HxjsliNO-rKZWN1uqe7xWTrZH4cLebZKBk1t59dSIRlNjkYHTagpQEBUs915a_9c24J", 
-        "953375551219974165": "https://discord.com/api/webhooks/965632380993957958/NBUBwIT92QZBGpLL-nRg6MHw1rmfeGXI64ezq02Z371oCbo4Pf9ADwjIJuEHFjnlnuhK", 
-        "960634867605991434": "https://discord.com/api/webhooks/965632457380614145/SKmDb-2SHKLCOkXmwzuTXBUosXWld4bxDW-GewehHDXaMR9fRHwCU5K6F55R422tXHkf",
-        "957343292759101460": "https://discord.com/api/webhooks/965632543552577536/8agut9k6L2nDET9EVAO3vGpGK2BWReMKE-h6cyiUxky_N4eqIszxLdu6V0cBzdoSzlqK",
-        "957119678470295582": "https://discord.com/api/webhooks/965603873786064916/wcPfsmx95de9AQhDhMCGThqafkM1SSI86E35Pgjb0SShrxp61eq7-4p3ZvU7DOCcRC1c", 
-        "959113865453535232": "https://discord.com/api/webhooks/965632619452702830/657U-zetV0UeLaygKgel8D-CI_iud4OD3c8hhcQ4XAgg2J-7t40vNsNgRjiVzHfpf579"
-
-    }
+    with open('Config.json') as f:
+        config = json.load(f)
+    
+    channels_data = config['MIRRORED_CHANNELS']
+    channels_pings = config['PING_CHANNELS']
 
     if message.author == bot.user:
         return
@@ -35,21 +32,52 @@ async def on_message(message):
             from discord import Webhook, RequestsWebhookAdapter
             webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
             webhook.send(embed = embed)
+            try:
+                channel = await bot.fetch_channel(965158944215535697)
 
-        except:
+                role = discord.utils.get(channel.guild.roles, name = channels_pings[str(message.channel.id)])
+                webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
+                webhook.send(f"<@&{role.id}>")
+
+            except:
+                pass
+
+        except Exception as e:
+            from discord import Webhook, RequestsWebhookAdapter
+            webhook = Webhook.from_url('https://discord.com/api/webhooks/967307399209824296/ZEfPQPNRCXYb1ml30-TAuRTXOf0cMXz9IHhacNN7Sx9m4wDLwAlDrER7p8Ok90ETwSJ5', adapter=RequestsWebhookAdapter())
+            webhook.send(e)         
             pass
 
         if not content == '':
-            files=[await attch.to_file() for attch in message.attachments]
-            if not files == []:
+            try:
+                files=[await attch.to_file() for attch in message.attachments]
+                if not files == []:
+                    from discord import Webhook, RequestsWebhookAdapter
+                    webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
+                    webhook.send(content, files = files)
+                    role = discord.utils.get(message.guild.roles, name = channels_pings[str(message.channel.id)])
+                    channel = await bot.fetch_channel(965158944215535697)
+
+                    role = discord.utils.get(channel.guild.roles, name = channels_pings[str(message.channel.id)])
+                    webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
+                    webhook.send(f"<@&{role.id}>")
+
+                else:
+                    from discord import Webhook, RequestsWebhookAdapter
+                    webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
+                    await webhook.send(content)
+
+                    channel = await bot.fetch_channel(965158944215535697)
+
+                    role = discord.utils.get(channel.guild.roles, name = channels_pings[str(message.channel.id)])
+                    webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
+                    webhook.send(f"<@&{role.id}>")
+
+            except Exception  as e:
                 from discord import Webhook, RequestsWebhookAdapter
-                webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
-                webhook.send(content, files = files)
-            else:
-                from discord import Webhook, RequestsWebhookAdapter
-                webhook = Webhook.from_url(url, adapter=RequestsWebhookAdapter())
-                webhook.send(embed = embed)
-                await webhook.send(content)
+                webhook = Webhook.from_url('https://discord.com/api/webhooks/967307399209824296/ZEfPQPNRCXYb1ml30-TAuRTXOf0cMXz9IHhacNN7Sx9m4wDLwAlDrER7p8Ok90ETwSJ5', adapter=RequestsWebhookAdapter())
+                webhook.send(e)         
+                
         
 
-bot.run('OTM0NTExNjU0MTYxNTA2Mzc1.YjoXvQ.OaKF4H2_I7zVqTAUiFD-YQk7fR8', bot = False)
+bot.run('OTM0NTExNjU0MTYxNTA2Mzc1.YjoXvQ.OaKF4H2_I7zVqTAUiFD-YQk7fR8')

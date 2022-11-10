@@ -1,3 +1,19 @@
 {
-   "Target": 946671454802571305
+   "MIRRORED_CHANNELS": {
+      "951616970665635910": "https://discord.com/api/webhooks/966658391332237372/bdz9uYo62INBW81Y9tP29PC9nYRQRbvT4BvLhhS09F7rjKkLQvp8HK7pi_kYeYIOBjDM", 
+      "953375551219974165": "https://discord.com/api/webhooks/966658111811248149/f2iVEmOqtFp9ngE_Ww6amLxwTvrcxbOsChGhrPbJYqwPEWAwPeQ1KLEuK8UqWx75zGKC", 
+      "960634867605991434": "https://discord.com/api/webhooks/966658624472637440/LRHv8oqhkOJmOd3fjNT45JPbcwJ3Gox4xy6_cogfztNIZXnvulhHCpJL9c1Y8S5b-qxP",
+      "957343292759101460": "https://discord.com/api/webhooks/966657632502943775/yNJ1X168TDnqJbaD43FGSNgktx4jK0qez5A33VB2VBOsfj7IY2EdHIA49VJA0hmwpZ3w",
+      "957119678470295582": "https://discord.com/api/webhooks/965603873786064916/wcPfsmx95de9AQhDhMCGThqafkM1SSI86E35Pgjb0SShrxp61eq7-4p3ZvU7DOCcRC1c", 
+      "959113865453535232": "https://discord.com/api/webhooks/965632619452702830/657U-zetV0UeLaygKgel8D-CI_iud4OD3c8hhcQ4XAgg2J-7t40vNsNgRjiVzHfpf579"
+
+  },
+  "PING_CHANNELS": {
+   "951616970665635910": "Y-Alpha Calls", 
+   "953375551219974165": "Quickpicks", 
+   "960634867605991434": "Upcoming Calls",
+   "957343292759101460": "Degen Calls",
+   "957119678470295582": "Llama Alpha Calls", 
+   "959113865453535232": "Llama Alpha Calls"
+   }
 }

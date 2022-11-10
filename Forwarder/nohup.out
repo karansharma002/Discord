@@ -1,0 +1,796 @@
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 42, in on_message
+    files=[await attch.to_file() for attch in x.attachments]
+NameError: name 'x' is not defined
+------- STARTED FORWARDING -------
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 51, in on_message
+    await webhook.send(content)
+TypeError: object NoneType can't be used in 'await' expression
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 46, in on_message
+    webhook.send(content, files = files)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 987, in send
+    return self._adapter.execute_webhook(wait=wait, file=file, files=files, payload=payload)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 164, in execute_webhook
+    maybe_coro = self.request('POST', url, multipart=multipart, payload=data, files=files_to_pass)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 360, in request
+    raise NotFound(r, response)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 46, in on_message
+    webhook.send(content, files = files)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 987, in send
+    return self._adapter.execute_webhook(wait=wait, file=file, files=files, payload=payload)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 164, in execute_webhook
+    maybe_coro = self.request('POST', url, multipart=multipart, payload=data, files=files_to_pass)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 360, in request
+    raise NotFound(r, response)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 46, in on_message
+    webhook.send(content, files = files)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 987, in send
+    return self._adapter.execute_webhook(wait=wait, file=file, files=files, payload=payload)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 164, in execute_webhook
+    maybe_coro = self.request('POST', url, multipart=multipart, payload=data, files=files_to_pass)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 360, in request
+    raise NotFound(r, response)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 46, in on_message
+    webhook.send(content, files = files)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 987, in send
+    return self._adapter.execute_webhook(wait=wait, file=file, files=files, payload=payload)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 164, in execute_webhook
+    maybe_coro = self.request('POST', url, multipart=multipart, payload=data, files=files_to_pass)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 360, in request
+    raise NotFound(r, response)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 46, in on_message
+    webhook.send(content, files = files)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 987, in send
+    return self._adapter.execute_webhook(wait=wait, file=file, files=files, payload=payload)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 164, in execute_webhook
+    maybe_coro = self.request('POST', url, multipart=multipart, payload=data, files=files_to_pass)
+  File "/usr/local/lib/python3.8/dist-packages/discord/webhook.py", line 360, in request
+    raise NotFound(r, response)
+discord.errors.NotFound: 404 Not Found (error code: 10015): Unknown Webhook
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/discord/client.py", line 301, in _run_event
+    await coro(*args, **kwargs)
+  File "MSG.py", line 50, in on_message
+    webhook.send(embed = embed)
+UnboundLocalError: local variable 'embed' referenced before assignment
+------- STARTED FORWARDING -------
+------- STARTED FORWARDING -------
+------- STARTED FORWARDING -------
+------- STARTED FORWARDING -------
+------- STARTED FORWARDING -------
+------- STARTED FORWARDING -------
+Y-Alpha Calls 967760791904346112
+------- STARTED FORWARDING -------
+Y-Alpha Calls 967760791904346112
