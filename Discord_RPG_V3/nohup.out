@@ -1,0 +1,5 @@
+python3: can't open file 'RPG_V3.py.py': [Errno 2] No such file or directory
+------ RPG IS RUNNING -------
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "register<fighter>" is not found
+------ RPG IS RUNNING -------

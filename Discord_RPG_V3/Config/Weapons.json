@@ -1,0 +1,26 @@
+{
+   "sword": {
+      "Emoji": "\u00e2\u0153\u2026",
+      "Price": 100,
+      "Description": "Mighty Sword",
+      "DMG": "12-13",
+      "Type": "ranged",
+      "Aura": "AGI+1"
+   },
+   "mighty_rang": {
+      "Emoji": "\u00e2\u0153\u2026",
+      "Price": 100,
+      "Description": "Mighty Sword",
+      "DMG": "12-13",
+      "Type": "ranged",
+      "Aura": "AGI+1"
+   },
+   "delta_crit": {
+      "Emoji": "\u2694\ufe0f",
+      "Price": 100,
+      "Description": "Wonderful weapon",
+      "DMG": "23",
+      "Type": "melee",
+      "Aura": "AGI+2"
+   }
+}
