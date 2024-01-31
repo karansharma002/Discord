@@ -657,5 +657,5 @@ async def squeezescan_stop(ctx):
     ss.cancel()
     await ctx.send(':red_circle: Alert has been stopped.')
 
-token = 'ODQwNDg4NDg4NDE5MzI4MDEw.YJY75w.yR6RL2NzrHgXzdZeO8Kyw9FzItc'
+token = 'TOKEM'
 bot.run(token)
